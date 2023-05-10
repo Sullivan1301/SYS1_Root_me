@@ -1,0 +1,4 @@
+Ici, on obtient un code hexadecomal
+on va convertire cette chaine en ascii grace a un convertisseur online
+Le resultat apres, nous pouvons voir une ligne Authorization qui est un cde a base 64
+on decode ce dernier grace a un decodeur et on obtient le mot de passe
