@@ -1,0 +1,4 @@
+Dans le fichier ch18.bin que nous avons ouvert sur Wireshark 
+on trouvera dans le mene Wireless, L'equipement bluetooth qui ouvrira un onglet des donnees du bluetooth de l'appareil
+On mettra en majuscule toutes les lettres minuscule et on le mettra dans un convertisseur SHA1 suivi du modele de l'appareil
+le resultat obtenu sera le mot de passe 
