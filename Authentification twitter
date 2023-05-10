@@ -1,0 +1,3 @@
+on ouvre le fichier ch3.pcap dans le Wireshark
+ou suit le HTTP Stream afin d'obtenir un ongle où on trouvera un code base64 qu'il va falloir decoder
+apres avoir decodé ce dernier on obtiendra le mot de passe
