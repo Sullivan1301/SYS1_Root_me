@@ -1,0 +1,5 @@
+Ici, nous utiliserons le terminal ou l'invite de commande
+Utiliser la commende dig -h pour connaitre les syntaxes utilisees 
+Suivre l'usage mentionne 
+AYez une commande semplble a ceci afin de trouver la solution 
+=> $dig @challenge01.root-me.org -p 54011 ch11.challenge01.root-me.org txt
